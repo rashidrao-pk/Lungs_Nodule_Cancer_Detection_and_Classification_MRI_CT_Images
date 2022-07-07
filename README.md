@@ -52,3 +52,8 @@ This module is the second page of GUI and performs the classification. This modu
 ![vlcsnap-2022-06-21-17h09m27s56](https://user-images.githubusercontent.com/25412736/174798162-970aa258-b4c1-48c9-ae0c-70161d972d4b.png)
 
 #Lungs #Nodule #Cancer #Tumor #Detection #Classification #Matlab #GUI #machinelearning #ComputerVision #ImageProcessing #DeepLearning #Feature #Fusion #Extraction #FYP #Project
+
+
+Client Feedback:
+![Review 1 ](https://user-images.githubusercontent.com/25412736/177764100-d4582232-d95a-496c-a1e8-f7fc81990007.JPG)
+
