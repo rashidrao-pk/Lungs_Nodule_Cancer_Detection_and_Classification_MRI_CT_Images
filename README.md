@@ -1,6 +1,10 @@
 # Lungs_Nodule_Cancer_Detection_and_Classification_MRI_CT_Images
 Lungs Nodule Detection and Classification using MRI and CT Scan Images
 
+# Review from Client ->
+![Review 1 ](https://user-images.githubusercontent.com/25412736/183263074-255fd263-c378-4627-a7a8-84f8108c9d01.JPG)
+
+
 This is a GUI Based Machine Learning App which performs:
 1. Nodule Detection and Segmentation.
 2. Lungs Cancer Classification Based on Convolutional Networks.
